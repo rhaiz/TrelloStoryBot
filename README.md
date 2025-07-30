@@ -1,6 +1,7 @@
 # TrelloStoryBot
 
 ## 💡 About
+
 # Development setup
 
 
@@ -12,3 +13,6 @@
 
 # Contributing
 
+---
+
+*Developed and maintained by [@Havorin](https://github.com/Havorin)*
